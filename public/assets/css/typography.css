@@ -1,0 +1,101 @@
+.font {
+    font-family: "shabnam";
+}
+
+.small {
+    font-size: 0.625rem;
+}
+.subtitle {
+    font-size: 0.75rem;
+}
+.normal {
+    font-size: 1rem;
+}
+.title {
+    font-size: 1.25rem;
+}
+.mid-title
+{
+    font-size: 1.5rem;
+}
+.heigh-title {
+    font-size: 2rem;
+}
+.big-title {
+    font-size: 3rem;
+}
+.extra-title{
+    font-size: 4.5rem;
+}
+
+
+.not-bold{
+    font-weight: 300;
+}
+.bold
+{
+    font-weight: 700;
+}
+
+.bolder{
+    font-weight: 900;
+}
+
+
+
+
+
+.line-height-1
+{
+    line-height: 0.5rem;
+}
+.line-height-2
+{
+    line-height: 1rem;
+}
+.line-height-3
+{
+    line-height: 1.5rem;
+}
+.line-height-4
+{
+    line-height: 2rem;
+}
+.line-height-5
+{
+    line-height: 2.5rem;
+}
+.line-height-6
+{
+    line-height: 3rem;
+}
+.line-height-7
+{
+    line-height: 3.5rem;
+}
+.line-height-8
+{
+    line-height: 4rem;
+}
+.line-height-9
+{
+    line-height: 4.5rem;
+}
+.line-height-10
+{
+    line-height: 5rem;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.uppercase
+{
+    text-transform: uppercase;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+

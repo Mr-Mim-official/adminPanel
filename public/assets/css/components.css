@@ -1,0 +1,35 @@
+.btn
+{
+    background-color: none;
+    border: 1px solid white;
+   cursor: pointer;
+}
+
+.upperCase{
+    text-transform: uppercase;
+}
+.underLine
+{
+    text-decoration:underline ;
+}
+.box
+{
+    background-color: var(--white-color);
+    border-radius: 3px;
+}
+.pointer
+{
+    cursor: pointer;
+}
+.btn-hover
+{
+    transition: var(--transition);
+}
+.btn-hover :hover
+{
+background-image: linear-gradient(to left , #01D4FF , #2190FF);
+}
+.transition
+{
+    transition:  .3s ease-in-out all;
+}

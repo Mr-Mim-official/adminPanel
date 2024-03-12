@@ -1,0 +1,35 @@
+ .divider :first-child {
+    
+    flex-basis: 10%;
+}
+ .divider :last-child{
+flex-basis: 90%;
+}
+.post-menu li:not(:first-child)
+{
+    font-size: 14px;
+}
+
+#search-box button
+{
+flex-basis: 10%;
+}
+.container
+{
+    margin: 0 1rem;
+}
+
+
+
+.table > 
+{
+    width: 100%;
+}
+.hover:hover
+{
+    opacity: 60%;
+}
+#categoryList {
+    transition: all 0.5s ease-in-out;
+    max-height: 0px;
+}

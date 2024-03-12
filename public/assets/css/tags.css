@@ -1,0 +1,22 @@
+html{
+    font-size: 100%;
+}
+input
+{
+    border: 1px solid rgba(3, 3, 3, 0.2);
+    cursor: pointer;
+}
+
+input:not(:focus)
+{
+ color:rgba(30,30,30,0.3);
+}
+
+button
+{
+    cursor: pointer;
+}
+
+hr{
+    color: var(--border-fields-color);
+}

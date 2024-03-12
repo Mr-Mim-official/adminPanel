@@ -1,0 +1,13 @@
+.menu nav ul li a
+{
+    transition: ease-in-out .1s all ;
+}
+.menu nav ul  li a:hover
+{
+    color: var(--white-color);
+    cursor: pointer;
+}
+#categoryList {
+    transition: all 0.5s ease-in-out;
+    max-height: 0px;
+}

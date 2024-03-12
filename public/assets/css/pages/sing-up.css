@@ -1,0 +1,43 @@
+#wrapper
+{
+    border:4px solid  var(--border-color);
+}
+
+
+#wrapper .left-section .background
+{
+    height: 125%;
+    width: 120%;
+    transform: rotate(11deg);
+    margin-top: -4rem;
+    margin-left: -5rem;
+}
+.right-section .sing-up.icons .item
+{
+    width: 2rem;
+    height: 2rem;
+    border: 1px solid var(--border-color);
+}
+form  div  div.items  span.error {
+	display: none;
+
+}
+
+form  div  div.items  input:invalid:not(:focus):not(:placeholder-shown):not(:checked) ~ .error {
+	display: block;
+}
+form  div  div.items input:focus 
+{
+    border:none;
+    color: gray;
+}
+
+
+.sky-btn
+{
+    transition: .3s ease-in-out all;
+}
+.sky-btn:hover{
+    background-image: linear-gradient(270deg, #00D5FF 60%, #1F92FF);
+  
+}
