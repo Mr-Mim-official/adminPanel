@@ -1,7 +1,7 @@
 @extends('layouts.website.register.master')
 @section("body")
 
-    <section id="wrapper testGitHub"
+    <section id="wrapper"
              class=" d-grid justify-content-center  col-2 mx-27 my-6  border-small border-color overflow-hidden gap-5">
         <div class="left-section d-flex flex-columns justify-content-center  p-relative">
 
